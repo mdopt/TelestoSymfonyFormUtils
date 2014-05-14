@@ -3,7 +3,6 @@
 namespace Telesto\VendorExt\Symfony\Form\Utils;
 
 use Symfony\Component\Form\FormInterface;
-use Symfony\Component\Form\FormRegistryInterface;
 
 abstract class CommonUtil
 {
